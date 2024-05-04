@@ -1,0 +1,51 @@
+h1 {
+  font-family: sans-serif;
+  font-size: 5em;
+  text-align: center;
+  line-height: 2em;
+}
+
+.anime {
+	height: 100px;
+	width: 100px;
+	background-color: #69ff00;
+}
+
+.songs {
+border: 5px;
+}
+
+.songs img {
+max-width: 200px;
+height: auto;
+}
+
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.color {
+  border: 5px solid;
+  display: inline;
+}
+
+p {
+  font-size: 2em;
+  font-family: sans-serif;
+}
+
+a {
+  font-family: sans-serif;
+  font-size: 1em;
+}
+
+
+#album {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-content: space-around;
+
+}
